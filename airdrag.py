@@ -42,5 +42,3 @@ plt.xticks([i for i in range(0,11,2)])
 plt.ylabel("acceleration")
 
 plt.tight_layout(pad=1.0)
-
-#i am a genius
